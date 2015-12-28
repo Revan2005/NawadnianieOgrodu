@@ -1,0 +1,2 @@
+Format (BEZ SPACJI!): 
+String nazwa, double cena, promienEfektywny, promienMaksymalny, boolean czyRegulowanyKat, opcjonalnie double katOd, katDo
